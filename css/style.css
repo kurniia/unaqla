@@ -285,6 +285,7 @@ h4 {
 .front {
     height: 70vh;
     margin-top: 82px;
+    background: #eee;
 }
 
 .front .intro-caption {
@@ -344,14 +345,6 @@ h4 {
 
 .portfolio-page.segments {
     padding-top: 100px;
-}
-
-.portfolio .lines {
-    background-color: #ddd;
-    width: 70%;
-    height: 1px;
-    margin: 0 auto;
-    margin-bottom: 75px;
 }
 
 .portfolio .right-image {
